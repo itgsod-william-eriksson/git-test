@@ -2,7 +2,8 @@
 
 This is my first project
 
-*This
-*is
-*a
-*list
+* This
+* is
+* a
+* list
+
